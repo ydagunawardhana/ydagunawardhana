@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **React.js, Python, Computer Vision, and Full-Stack Development, AI & ML Technology**
 
+- 👨‍💻 All of my projects are available at [https://ydagunawardhana-portfolio.vercel.app/](https://ydagunawardhana-portfolio.vercel.app/)
+
 - 📫 How to reach me **yashanydmdinusha@gmail.com**
 
 - ⚡ Fun fact **When I'm not in full-on developer mode, I'm crafting UI/UX concepts on Figma or strategizing in Computer Games!**
