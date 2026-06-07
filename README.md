@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **modern software engineering with AI to solve complex challenges.**
 
-- 🌱 I’m currently learning Advanced Machine Learning models and Cloud Architecture **Advanced Machine Learning models and Cloud Architecture**
+- 🌱 I’m currently learning **Advanced Machine Learning models and Cloud Architecture**
 
 - 👯 I’m looking to collaborate on: **Open-source AI projects and interactive 3D web applications, AI & ML Technology**
 
